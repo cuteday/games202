@@ -78,9 +78,9 @@ void main(void) {
 }
 `;
 
-// const PhongVertexShader = fs.readFileSync("src/shaders/phongShader/vertex.glsl")
+// const PhongVertexShader = fs.readFileSync("src/shaders/phongShader/vertex.glsl");
 
-// const PhongFragmentShader = fs.readFileSync("src/shaders/phongShader/fragment.glsl")
+// const PhongFragmentShader = fs.readFileSync("src/shaders/phongShader/fragment.glsl");
 
 const PhongVertexShader = `
 attribute vec3 aVertexPosition;
